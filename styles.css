@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	width:400px;
+	height:400px;
+	box-shadow: 5px 10px 20px gray;
+}
